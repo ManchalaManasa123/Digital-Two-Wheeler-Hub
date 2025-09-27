@@ -47,7 +47,7 @@ Vahan Bazar ultimately aims to become the go-to marketplace for two-wheelers, co
 
 ➤ Uniqueness & Innovation
 
-Digital Two-Wheeler Hub stands out from traditional classifieds by offering smart decision-making tools alongside a marketplace. Features like EMI and fuel cost calculators, side-by-side model comparison, and upcoming EV launches make the platform future-ready. Unlike competitors, we also provide a test ride booking flow and a dealer inventory management dashboard, bridging the gap between buyers, sellers, and showrooms.
+Digital Two-Wheeler Hub stands out from traditional classifieds by offering smart decision-making tools alongside a marketplace. Features like fuel type, side-by-side model comparison, and upcoming EV launches make the platform future-ready. Unlike competitors, we also provide a test ride booking flow and a dealer inventory management dashboard, bridging the gap between buyers, sellers, and showrooms.
 By combining marketplace listings with financial insights, dealership integration, and EV support, Digital Two-Wheeler Hub transforms the two-wheeler buying and selling journey into a transparent, data-driven, and trustworthy experience. This innovation positions our solution not just as a listing platform, but as a complete ecosystem for two-wheeler discovery and transactions.
 
 ➤ Features to be Implemented
