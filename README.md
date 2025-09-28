@@ -1,7 +1,8 @@
-                                         Tech Explorers
+                                                Tech Explorers
 The application is powered by a modern and scalable tech stack: React.js (or Vue/Angular) for the frontend, Node.js/Flask/Django for the backend, and PostgreSQL/MongoDB/SQLite for database management. The architecture is designed for smooth deployment, responsive design, and future integration with services like digital payments and inspection reports.
 
-Vahan Bazar ultimately aims to become the go-to marketplace for two-wheelers, combining transparency, convenience, andProject title : Digital-Two-Wheeler-Hub
+Vahan Bazar ultimately aims to become the go-to marketplace for two-wheelers, combining transparency, convenience.
+Project title : Digital-Two-Wheeler-Hub
 ➤ Problem Statement
 
 Problem Statement ID: HACXPB003
@@ -28,15 +29,15 @@ Prototype Plan:
 
 we seek to create a Minimum Viable Product (MVP) that realizes the essential user flows:
 
-•\tBuyers will be able to search and filter listings of available two-wheelers.
+•Buyers will be able to search and filter listings of available two-wheelers.
 
-•\tSellers/dealers will be able to create and manage their listings with photos.
+•Sellers/dealers will be able to create and manage their listings with photos.
 
-•\tUsers will get to see comprehensive specs of every listing.
+•Users will get to see comprehensive specs of every listing.
 
-•\tEasy EMI and fuel price calculators will be built in for decision-making support.
+•Easy EMI and fuel price calculators will be built in for decision-making support.
 
-•\tA responsive and clean UI will provide usability across platforms.
+•A responsive and clean UI will provide usability across platforms.
 
 Stretch goals are side-by-side comparison, upcoming launches module, test ride booking, and dealer dashboards.
 
@@ -90,22 +91,23 @@ Stretch Features:
 
 • Manchala Manasa(Team Leader):
 
-  
+Created the project structure of React.js
 
-  Created the project structure of React.js
 Managed the GitHub repository and coordinated work
 
-  Designed and created homepage layout with navigation bar and footer
-•\tMaram Sai Srujana:
+Designed and created homepage layout with navigation bar and footer
 
-  Designed and implemented listing page UI for bikes, scooters, and EVs
+•Maram Sai Srujana:
+
+Designed and implemented listing page UI for bikes, scooters, and EVs
+
 Added search and filter components (brand, price, fuel type)
 
-  Implemented responsiveness using Tailwind CSS
+Implemented responsiveness using Tailwind CSS
 
-•\tTolichukka Joshna:
+•Tolichukka Joshna:
 
-  Developed vehicle detail page UI with sections for specifications, price, and images
+Developed vehicle detail page UI with sections for specifications, price, and images
 
 Enhanced styling and uniformity of varied pages
 
