@@ -7,7 +7,7 @@ Problem Statement ID: HACXPB003
 
 Problem: 
 
-Create a two-wheeler marketplace web application through which customers can explore bikes, scooters, and EVs, search and filter by brand name, price, or fuel type, see in-depth specs with pictures, compare two models side by side, utilize EMI and fuel cost estimators, check future launches, visit showrooms, and book test rides or sell used bikes.
+To create a two-wheeler marketplace web application through which customers can explore bikes, scooters, and EVs, search and filter by brand name, price, or fuel type, see in-depth specs with pictures, compare two models side by side, utilize EMI and fuel cost estimators, check future launches, visit showrooms, and book test rides or sell used bikes.
 
 ➤ Summary
 
