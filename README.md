@@ -56,7 +56,7 @@ By integrating marketplace listings with financial information, dealership integ
 
 • Image listing creation (seller/dealer side)
 
-• Vehicle details page with specs
+• Vehicle details page with specifications
 
 • EMI Calculator and Fuel Cost Calculator
 
