@@ -112,7 +112,7 @@ Developed vehicle detail page UI with sections for specifications, price, and im
 Enhanced styling and uniformity of varied pages
 
   Assisted in incorporating gathered vehicle information into cards and detail views
-   •	Designated to Nagulla Sai Lahari:
+   • Nagulla Sai Lahari:
 
   Conducted research on two-wheeler specs, features, and future models to be added to the app
 
