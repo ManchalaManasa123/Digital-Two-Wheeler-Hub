@@ -129,3 +129,37 @@ Stretch Features:
   Assisted in styling the seller dashboard layout (basic UI mock)
 
   Documented frontend progress and started preparing the hackathon video outline
+
+➤ Future Enhancements
+
+• User Login with Favorites
+
+  Add secure authentication and allow users to save favorite bikes/scooters for quick access later.
+
+• Reviews & Ratings
+
+  Buyers can rate bikes and sellers/dealers, building trust and community-driven transparency.
+
+• Price Alerts
+
+  Users can subscribe to notifications when a bike’s price drops or when new models launch.
+
+• Advanced Dealer Dashboard
+
+  Enhanced analytics for dealers, including sales trends, top models, and lead tracking.
+
+• Recommendation Engine
+
+  AI-powered suggestions for buyers based on browsing history, budget, and preferences.
+
+• Mobile App Integration
+
+  Native Android/iOS apps with push notifications for test ride reminders, offers, and alerts.
+
+• Payment & Booking System
+
+  Online booking for test rides and secure payments using UPI, cards, or wallets.
+
+• EV Ecosystem Add-ons
+
+  Charging station locators, battery health check, and EV-specific filters.
